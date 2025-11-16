@@ -33,4 +33,13 @@ I enjoy creating Python-powered, scalable, and practical systems for real-world 
 ### **python-agent-lab**
 Python-based experimentation environment for AI agents. Enables rapid prototyping of reasoning, planning, and memory workflows.
 
-### **to**
+### **token-simulator**
+Simulates token transactions to test smart contract logic in a sandboxed environment.
+
+### **btc-transaction-visualizer**
+Python tool to visualize Bitcoin transaction graphs and mempool activity.
+
+---
+
+## Let’s Build Together  
+If you’re into AI, blockchain, or simulation tooling — let’s collaborate. Reach out anytime.
